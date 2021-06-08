@@ -1,21 +1,13 @@
 ### Hi there 👋
-📫 How to reach me: *https://www.linkedin.com/in/ayush-jaiswal-b1616a74
-                    *https://twitter.com/ayush_rap
-                    *https://www.facebook.com/profile.php?id=100028161194894
-                    *https://www.instagram.com/ayushjaiswal729
 
 
-<!--
 **Raptor446/Raptor446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my Technical Skills
+- 🌱 I’m currently learning Data Structures & Algorithms
+- 📫 How to reach me: https://www.linkedin.com/in/ayush-jaiswal-b1616a74
+- 😄 Pronouns: I/Me/Him
+- ⚡ Fun fact: Love to adventure.
+
