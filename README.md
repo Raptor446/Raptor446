@@ -1,4 +1,9 @@
 ### Hi there 👋
+📫 How to reach me: *https://www.linkedin.com/in/ayush-jaiswal-b1616a74
+                    *https://twitter.com/ayush_rap
+                    *https://www.facebook.com/profile.php?id=100028161194894
+                    *https://www.instagram.com/ayushjaiswal729
+
 
 <!--
 **Raptor446/Raptor446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
